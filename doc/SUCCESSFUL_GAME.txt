@@ -1,0 +1,417 @@
+Dominos!
+Your hand: [[5|5], [1|5], [3|3], [3|6], [1|6], [1|4], [4|4]]
+Which domino?
+0
+Computer has 7 dominos
+Boneyard contains 14 dominos
+Tray: [[1|5], [3|3], [3|6], [1|6], [1|4], [4|4]]
+[5, 5]
+
+Human's turn
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+Invalid move. Please try again.
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+^C%
+❯ javac com/domino/game/*.java com/domino/model/*.java com/domino/ui/*.java
+❯ java com.domino.game.Main
+Dominos!
+Place the first domino to start the game.
+Your hand: [[3|5], [5|6], [0|1], [2|5], [4|5], [5|5], [4|4]]
+Which domino?
+0
+Human has 6 dominos
+Boneyard contains 14 dominos
+[3, 5]
+
+Computer's turn
+Computer is thinking...
+Before computer's move:
+Board: [3, 5]
+
+Computer's hand: [[3|4], [1|1], [0|6], [2|3], [0|3], [3|3], [0|2]]
+Computer played [3|4] on the LEFT side.
+After computer's move:
+Board: [3, 5]
+
+Computer's hand: [[1|1], [0|6], [2|3], [0|3], [3|3], [0|2]]
+Computer has played.
+Computer has 6 dominos
+Boneyard contains 14 dominos
+Tray: [[5|6], [0|1], [2|5], [4|5], [5|5], [4|4]]
+[3, 5]
+
+Human's turn
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+Invalid move. Please try again.
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+^C%
+❯ javac com/domino/game/*.java com/domino/model/*.java com/domino/ui/*.java
+❯ java com.domino.game.Main
+Dominos!
+Place the first domino to start the game.
+Your hand: [[0|2], [0|4], [6|6], [5|6], [1|3], [1|6], [2|2]]
+Which domino?
+2
+Human has 6 dominos
+Boneyard contains 14 dominos
+[6, 6]
+
+Computer's turn
+Computer is thinking...
+Before computer's move:
+Board: [6, 6]
+
+Computer's hand: [[2|5], [1|2], [4|5], [0|0], [1|1], [2|3], [0|5]]
+Computer has no valid moves. Drawing from boneyard.
+After computer's move:
+Board: [6, 6]
+
+Computer's hand: [[2|5], [1|2], [4|5], [0|0], [1|1], [2|3], [0|5], [3|5]]
+Computer has played.
+Computer has 8 dominos
+Boneyard contains 13 dominos
+Tray: [[0|2], [0|4], [5|6], [1|3], [1|6], [2|2]]
+[6, 6]
+
+Human's turn
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+Invalid move. Please try again.
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+p
+Which domino?
+2
+Rotate first? (y/n)
+y
+Left or Right? (l/r)
+r
+Human has 5 dominos
+Boneyard contains 13 dominos
+[6, 6]
+   [6, 5]
+Computer's turn
+Computer is thinking...
+Before computer's move:
+Board: [6, 6]
+   [6, 5]
+Computer's hand: [[2|5], [1|2], [4|5], [0|0], [1|1], [2|3], [0|5], [3|5]]
+Computer played [5|2] on the RIGHT side.
+After computer's move:
+Board: [6, 6] [5, 2]
+   [6, 5]
+Computer's hand: [[1|2], [4|5], [0|0], [1|1], [2|3], [0|5], [3|5]]
+Computer has played.
+Computer has 7 dominos
+Boneyard contains 13 dominos
+Tray: [[0|2], [0|4], [1|3], [1|6], [2|2]]
+[6, 6] [5, 2]
+   [6, 5]
+Human's turn
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+Invalid move. Please try again.
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+^C%
+❯ javac com/domino/game/*.java com/domino/model/*.java com/domino/ui/*.java
+❯ java com.domino.game.Main
+Dominos!
+Place the first domino to start the game.
+Your hand: [[3|4], [0|5], [2|3], [0|3], [1|2], [1|5], [1|6]]
+Which domino?
+0
+Human has 6 dominos
+Boneyard contains 14 dominos
+[3, 4]
+
+Computer's turn
+Computer is thinking...
+Before computer's move:
+Board: [3, 4]
+
+Computer's hand: [[0|0], [1|1], [4|6], [3|5], [1|3], [3|6], [0|1]]
+Computer played [0|0] on the RIGHT side.
+After computer's move:
+Board: [3, 4]
+   [0, 0]
+Computer's hand: [[1|1], [4|6], [3|5], [1|3], [3|6], [0|1]]
+Computer has played.
+Computer has 6 dominos
+Boneyard contains 14 dominos
+Tray: [[0|5], [2|3], [0|3], [1|2], [1|5], [1|6]]
+[3, 4]
+   [0, 0]
+Human's turn
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+Invalid move. Please try again.
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+p
+Which domino?
+5
+Rotate first? (y/n)
+y
+Left or Right? (l/r)
+r
+Human has 5 dominos
+Boneyard contains 14 dominos
+[3, 4] [6, 1]
+   [0, 0]
+Computer's turn
+Computer is thinking...
+Before computer's move:
+Board: [3, 4] [6, 1]
+   [0, 0]
+Computer's hand: [[1|1], [4|6], [3|5], [1|3], [3|6], [0|1]]
+Computer played [1|1] on the RIGHT side.
+After computer's move:
+Board: [3, 4] [6, 1]
+   [0, 0] [1, 1]
+Computer's hand: [[4|6], [3|5], [1|3], [3|6], [0|1]]
+Computer has played.
+Computer has 5 dominos
+Boneyard contains 14 dominos
+Tray: [[0|5], [2|3], [0|3], [1|2], [1|5]]
+[3, 4] [6, 1]
+   [0, 0] [1, 1]
+Human's turn
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+Invalid move. Please try again.
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+p
+Which domino?
+^C%
+❯ javac com/domino/game/*.java com/domino/model/*.java com/domino/ui/*.java
+❯ java com.domino.game.Main
+Dominos!
+Place the first domino to start the game.
+Your hand: [[4|4], [1|6], [3|3], [0|5], [1|4], [0|3], [2|3]]
+Which domino?
+0
+Human has 6 dominos
+Boneyard contains 14 dominos
+[4, 4]
+
+Computer's turn
+Computer is thinking...
+Before computer's move:
+Board: [4, 4]
+
+Computer's hand: [[2|4], [2|2], [3|5], [2|5], [3|6], [0|2], [1|3]]
+Computer played [2|4] on the LEFT side.
+After computer's move:
+Board: [2, 4]
+   [4, 4]
+Computer's hand: [[2|2], [3|5], [2|5], [3|6], [0|2], [1|3]]
+Computer has played.
+Computer has 6 dominos
+Boneyard contains 14 dominos
+Tray: [[1|6], [3|3], [0|5], [1|4], [0|3], [2|3]]
+[2, 4]
+   [4, 4]
+Human's turn
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+3
+Invalid move. Please try again.
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+p
+Which domino?
+3
+Rotate first? (y/n)
+y
+Left or Right? (l/r)
+r
+Human has 5 dominos
+Boneyard contains 14 dominos
+[2, 4] [4, 1]
+   [4, 4]
+Computer's turn
+Computer is thinking...
+Before computer's move:
+Board: [2, 4] [4, 1]
+   [4, 4]
+Computer's hand: [[2|2], [3|5], [2|5], [3|6], [0|2], [1|3]]
+Computer played [2|2] on the LEFT side.
+After computer's move:
+Board: [2, 2] [4, 4]
+   [2, 4] [4, 1]
+Computer's hand: [[3|5], [2|5], [3|6], [0|2], [1|3]]
+Computer has played.
+Computer has 5 dominos
+Boneyard contains 14 dominos
+Tray: [[1|6], [3|3], [0|5], [0|3], [2|3]]
+[2, 2] [4, 4]
+   [2, 4] [4, 1]
+Human's turn
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+p
+Which domino?
+0
+Rotate first? (y/n)
+n
+Left or Right? (l/r)
+r
+Human has 4 dominos
+Boneyard contains 14 dominos
+[2, 2] [4, 4] [1, 6]
+   [2, 4] [4, 1]
+Computer's turn
+Computer is thinking...
+Before computer's move:
+Board: [2, 2] [4, 4] [1, 6]
+   [2, 4] [4, 1]
+Computer's hand: [[3|5], [2|5], [3|6], [0|2], [1|3]]
+Computer played [5|2] on the LEFT side.
+After computer's move:
+Board: [5, 2] [2, 4] [4, 1]
+   [2, 2] [4, 4] [1, 6]
+Computer's hand: [[3|5], [3|6], [0|2], [1|3]]
+Computer has played.
+Computer has 4 dominos
+Boneyard contains 14 dominos
+Tray: [[3|3], [0|5], [0|3], [2|3]]
+[5, 2] [2, 4] [4, 1]
+   [2, 2] [4, 4] [1, 6]
+Human's turn
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+p
+Which domino?
+1
+Rotate first? (y/n)
+n
+Left or Right? (l/r)
+l
+Human has 3 dominos
+Boneyard contains 14 dominos
+[0, 5] [2, 2] [4, 4] [1, 6]
+   [5, 2] [2, 4] [4, 1]
+Computer's turn
+Computer is thinking...
+Before computer's move:
+Board: [0, 5] [2, 2] [4, 4] [1, 6]
+   [5, 2] [2, 4] [4, 1]
+Computer's hand: [[3|5], [3|6], [0|2], [1|3]]
+Computer played [3|5] on the LEFT side.
+After computer's move:
+Board: [3, 5] [5, 2] [2, 4] [4, 1]
+   [0, 5] [2, 2] [4, 4] [1, 6]
+Computer's hand: [[3|6], [0|2], [1|3]]
+Computer has played.
+Computer has 3 dominos
+Boneyard contains 14 dominos
+Tray: [[3|3], [0|3], [2|3]]
+[3, 5] [5, 2] [2, 4] [4, 1]
+   [0, 5] [2, 2] [4, 4] [1, 6]
+Human's turn
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+p
+Which domino?
+0
+Rotate first? (y/n)
+n
+Left or Right? (l/r)
+l
+Human has 2 dominos
+Boneyard contains 14 dominos
+[3, 3] [0, 5] [2, 2] [4, 4] [1, 6]
+   [3, 5] [5, 2] [2, 4] [4, 1]
+Computer's turn
+Computer is thinking...
+Before computer's move:
+Board: [3, 3] [0, 5] [2, 2] [4, 4] [1, 6]
+   [3, 5] [5, 2] [2, 4] [4, 1]
+Computer's hand: [[3|6], [0|2], [1|3]]
+Computer played [6|3] on the RIGHT side.
+After computer's move:
+Board: [3, 3] [0, 5] [2, 2] [4, 4] [1, 6]
+   [3, 5] [5, 2] [2, 4] [4, 1] [6, 3]
+Computer's hand: [[0|2], [1|3]]
+Computer has played.
+Computer has 2 dominos
+Boneyard contains 14 dominos
+Tray: [[0|3], [2|3]]
+[3, 3] [0, 5] [2, 2] [4, 4] [1, 6]
+   [3, 5] [5, 2] [2, 4] [4, 1] [6, 3]
+Human's turn
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+p
+Which domino?
+1
+Rotate first? (y/n)
+n
+Left or Right? (l/r)
+l
+Human has 1 dominos
+Boneyard contains 14 dominos
+[2, 3] [3, 5] [5, 2] [2, 4] [4, 1] [6, 3]
+   [3, 3] [0, 5] [2, 2] [4, 4] [1, 6]
+Computer's turn
+Computer is thinking...
+Before computer's move:
+Board: [2, 3] [3, 5] [5, 2] [2, 4] [4, 1] [6, 3]
+   [3, 3] [0, 5] [2, 2] [4, 4] [1, 6]
+Computer's hand: [[0|2], [1|3]]
+Computer played [0|2] on the RIGHT side.
+After computer's move:
+Board: [2, 3] [3, 5] [5, 2] [2, 4] [4, 1] [6, 3]
+   [3, 3] [0, 5] [2, 2] [4, 4] [1, 6] [0, 2]
+Computer's hand: [[1|3]]
+Computer has played.
+Computer has 1 dominos
+Boneyard contains 14 dominos
+Tray: [[0|3]]
+[2, 3] [3, 5] [5, 2] [2, 4] [4, 1] [6, 3]
+   [3, 3] [0, 5] [2, 2] [4, 4] [1, 6] [0, 2]
+Human's turn
+[p] Play Domino
+[d] Draw from boneyard
+[q] Quit
+p
+Which domino?
+0
+Rotate first? (y/n)
+n
+Left or Right? (l/r)
+
+r
+
+--- Game Over ---
+Final board:
+[2, 3] [3, 5] [5, 2] [2, 4] [4, 1] [6, 3] [0, 3]
+   [3, 3] [0, 5] [2, 2] [4, 4] [1, 6] [0, 2]
+Human wins!
+Final scores:
+Human: 0
+Computer: 4
